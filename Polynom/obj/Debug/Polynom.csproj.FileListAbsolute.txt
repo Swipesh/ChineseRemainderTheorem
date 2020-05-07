@@ -1,0 +1,7 @@
+c:\users\mista\source\repos\Polynom\Polynom\bin\Debug\Polynom.exe.config
+c:\users\mista\source\repos\Polynom\Polynom\bin\Debug\Polynom.exe
+c:\users\mista\source\repos\Polynom\Polynom\bin\Debug\Polynom.pdb
+c:\users\mista\source\repos\Polynom\Polynom\obj\Debug\Polynom.csprojAssemblyReference.cache
+c:\users\mista\source\repos\Polynom\Polynom\obj\Debug\Polynom.csproj.CoreCompileInputs.cache
+c:\users\mista\source\repos\Polynom\Polynom\obj\Debug\Polynom.exe
+c:\users\mista\source\repos\Polynom\Polynom\obj\Debug\Polynom.pdb
